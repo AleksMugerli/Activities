@@ -33,6 +33,7 @@ public class ThirdActivity extends AppCompatActivity {
         st.setText(String.valueOf(ps));
         ac1.setOnClickListener(v -> {
             Intent intent = new Intent(ThirdActivity.this, MainActivity.class);
+            intent.putExtra("stev", Integer.parseInt(st.getText().toString()));
             startActivity(intent);
         });
         ac2.setOnClickListener(v -> {
