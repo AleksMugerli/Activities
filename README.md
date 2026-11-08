@@ -40,8 +40,10 @@ Gesture navigation on the third screen is handled using the provided custom help
 * `SWIPE_VELOCITY_THRESHOLD = 100` pixels per second
 
 ## ScreenShots
-<img width="200" height="400" alt="Screenshot_20261109_000627_Activities" src="https://github.com/user-attachments/assets/e03f23b2-e7a5-4623-af5f-4d5a838fc044" />
-<img width="200" height="400" alt="Screenshot_20261109_000623_Activities" src="https://github.com/user-attachments/assets/b535f5b0-c32a-4401-a31f-72d02f11f56b" />
-<img width="200" height="400" alt="Screenshot_20261109_000619_Activities" src="https://github.com/user-attachments/assets/5b596c81-ec8a-4a0a-b58a-3e092a299d26" />
 <img width="200" height="400" alt="Screenshot_20261109_000615_Activities" src="https://github.com/user-attachments/assets/0aba7bc5-3934-4a8e-bc8d-7326265badc5" />
+<img width="200" height="400" alt="Screenshot_20261109_000619_Activities" src="https://github.com/user-attachments/assets/5b596c81-ec8a-4a0a-b58a-3e092a299d26" />
+<img width="200" height="400" alt="Screenshot_20261109_000623_Activities" src="https://github.com/user-attachments/assets/b535f5b0-c32a-4401-a31f-72d02f11f56b" />
+<img width="200" height="400" alt="Screenshot_20261109_000627_Activities" src="https://github.com/user-attachments/assets/e03f23b2-e7a5-4623-af5f-4d5a838fc044" />
+
+
 
